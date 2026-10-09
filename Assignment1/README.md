@@ -10,12 +10,12 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+|Fajr Fahad ALdakheel | 2250000116 | Leader |
+| Rana Khaled Almaimany| 2250000431 | Member |
+| Raneem Abdullah Alharthi| 2250005846| Member |
+| Mayar Abdulrahman Almogbil| 2250002220 | Member |
+| Jana Abdullah Almulhim | 2250002171 | Member |
+
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -30,7 +30,8 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Add your dataset link here](https://huggingface.co/datasets/marianeft/diabetes_prediction_dataset)
+
 
 ##  Requirements
 
