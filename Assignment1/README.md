@@ -80,19 +80,24 @@ Push the completed notebook to the group's GitHub repository.
 A recommended repository structure is:
 
 ```text
-.
-├── README.md
-├── assignment_notebook.ipynb
-└── .gitignore
+arti303/
+├── Assignment1/
+│   ├── ARTI303_Assignment1_PandasVsPolars.ipynb
+│   ├── diabetes_prediction_dataset.csv
+│   ├── results/
+│   │   └── benchmark.csv
+│   └── README.md
+├── .gitignore
+└── README.md
 ```
 
-> Replace `assignment_notebook.ipynb` with the actual notebook filename provided in the course repository.
+> Replace `https://github.com/1Fajr/arti303.git` with the actual notebook filename provided in the course repository.
 
 ## GitHub Repository
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [GitHub Repository](https://github.com/1Fajr/arti303)
 
 ## Submission
 
